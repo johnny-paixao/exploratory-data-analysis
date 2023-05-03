@@ -10,7 +10,8 @@ O desenvolvimento do modelo preditivo será conduzido em um momento posterior.
 # Problema de negócio: Previsão de Vendas para Black Friday
 
 Declaração do Problema Uma empresa de varejo "ABC Private Limited" deseja entender o comportamento de compra do cliente (especificamente, valor da compra) em relação a vários produtos de diferentes categorias. Eles compartilharam o resumo de compra de vários clientes para produtos de alto volume selecionados no mês passado. O conjunto de dados também contém dados demográficos do cliente (idade, sexo, estado civil, tipo_de_ cidade, estado_de_cidade_cidade), detalhes do produto (id do produto e categoria do produto) e valor total da compra do mês passado. Agora, eles desejam criar um modelo para prever o valor da compra do cliente em relação a vários produtos, o que os ajudará a criar uma oferta personalizada para clientes em relação a diferentes produtos.
-
+<br/>
+<br/>
 
 <table>
 <thead>
